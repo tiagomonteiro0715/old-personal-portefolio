@@ -23,7 +23,7 @@
 }
 
 .sticky li:hover {
-    margin-left: -115px;
+    margin-left: -5px;
 }
 
 .sticky li img {
@@ -34,7 +34,7 @@
 
 .sticky li p {
     padding-top: 5px;
-    margin: 0px;
+    margin: 5px;
     line-height: 16px;
     font-size: 11px;
 }
