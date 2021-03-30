@@ -32,6 +32,10 @@
     margin-right: 5px;
 }
 
+.sticky li img:hover {
+    outline-color: red;
+}
+
 .sticky li p {
     padding-top: 5px;
     margin: 5px;
@@ -46,4 +50,5 @@
 
 .sticky li p a:hover {
     text-decoration: underline;
+    outline-color: red;
 }
