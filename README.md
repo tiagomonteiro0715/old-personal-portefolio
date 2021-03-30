@@ -5,7 +5,7 @@ give HTML5 UP credit for the design and tell your friends about it )
 
 make an amazing README file. One that impresses
 
-(Demo) [https://tiagomonteiro0715.github.io/personal-portefolio/]
+[Demo](https://tiagomonteiro0715.github.io/personal-portefolio/)
 
 -----
 
