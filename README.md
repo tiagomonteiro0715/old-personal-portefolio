@@ -9,8 +9,13 @@ make an amazing README file. One that impresses
 
 libraries used
 
+https://michalsnik.github.io/aos/
+
+[AOS - Animate on scroll javascript library](https://michalsnik.github.io/aos/
+)
+
 -----
 
-use bootramp
+
 
 last resource - implement tailwingcss
