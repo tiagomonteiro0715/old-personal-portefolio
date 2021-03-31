@@ -8,6 +8,8 @@ The code in this repository originated from a [template](https://html5up.net/min
 
 Make sure you visited their website :)
 
+-----
+
 Javascript libraries used
 
 [AOS - Animate on scroll javascript library](https://michalsnik.github.io/aos/)
