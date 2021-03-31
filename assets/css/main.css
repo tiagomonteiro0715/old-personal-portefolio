@@ -255,6 +255,7 @@ h5,
 h6 {
     color: #3e3e3e;
     margin: 0 0 0.75em 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 a,
@@ -273,26 +274,31 @@ h4,
 h5,
 h6 {
     font-weight: 700;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     font-size: 3.25em;
     letter-spacing: -0.025em;
     font-weight: 300;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 strong {
     font-weight: 700;
+    font-family: 'Roboto', sans-serif;
 }
 
 h2 {
     font-size: 2em;
     letter-spacing: -0.015em;
+    font-family: 'Roboto', sans-serif;
 }
 
 h3 {
     font-size: 1.5em;
     letter-spacing: -0.015em;
+    font-family: 'Roboto', sans-serif;
 }
 
 em,
@@ -1804,10 +1810,12 @@ ul.actions li:first-child {
 
 .box.style1 h3 {
     margin-bottom: 0.5em;
+    font-family: 'Roboto', sans-serif;
 }
 
 .box.style2 h3 {
     margin-bottom: 0.25em;
+    font-family: 'Roboto', sans-serif;
 }
 
 .box.style2 .image {
@@ -2012,6 +2020,7 @@ body>article {
 
 #top h1 {
     margin-top: 0.35em;
+    font-family: 'Roboto', sans-serif;
 }
 
 #top p {
@@ -2140,10 +2149,12 @@ body>article {
     h6 {
         font-size: 1.25em;
         margin: 0 0 0.4em 0;
+        font-family: 'Roboto', sans-serif;
     }
     h1 {
         font-size: 2.25em;
         line-height: 1.25em;
+        font-family: 'Roboto', sans-serif;
     }
     header {
         margin: 0 0 2em 0;
@@ -2215,6 +2226,7 @@ body>article {
     }
     .box h3 {
         margin-bottom: 0.25em;
+        font-family: 'Roboto', sans-serif;
     }
     .box .image.centered {
         margin-bottom: 1em;
