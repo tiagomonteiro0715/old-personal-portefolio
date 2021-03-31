@@ -1,6 +1,6 @@
 # Personal-portefolio
 
-![personal portefolio image example](https://www.pexels.com/photo/person-typing-on-computer-keyboard-2058128/)
+![personal portefolio image example](https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 [Personal portefolio](https://tiagomonteiro0715.github.io/personal-portefolio/)
 
