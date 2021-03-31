@@ -10,8 +10,10 @@ Make sure you visited their website :)
 Javascript libraries used
 
 [AOS - Animate on scroll javascript library](https://michalsnik.github.io/aos/)
+[Bootstrap](https://getbootstrap.com/)
 
 -----
 
 Started on 10/03/2021
+
 Ended on 31/03/2021
