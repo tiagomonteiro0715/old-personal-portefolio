@@ -1,21 +1,17 @@
 # Personal-portefolio
 
-Inicial template in https://html5up.net/miniport. make sure to check them out
-give HTML5 UP credit for the design and tell your friends about it )
+![personal portefolio image example](https://www.pexels.com/photo/person-typing-on-computer-keyboard-2058128/)
 
-make an amazing README file. One that impresses
+[Personal portefolio](https://tiagomonteiro0715.github.io/personal-portefolio/)
 
-[Demo](https://tiagomonteiro0715.github.io/personal-portefolio/)
+The code in this repository originated from a [template](https://html5up.net/miniport) in the website [html5](https://html5up.net)
+Make sure you visited their website :)
 
-libraries used
+javascript libraries used
 
-https://michalsnik.github.io/aos/
-
-[AOS - Animate on scroll javascript library](https://michalsnik.github.io/aos/
-)
+[AOS - Animate on scroll javascript library](https://michalsnik.github.io/aos/)
 
 -----
 
-
-
-last resource - implement tailwingcss
+Started on 10/03/2021
+Ended on 31/03/2021
