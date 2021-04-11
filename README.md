@@ -22,4 +22,4 @@ Javascript libraries used
 
 Started on 10/03/2021
 
-Ended on 31/03/2021
+Maintained since 31/03/2021
