@@ -4,12 +4,12 @@
 
 [Personal portefolio link](https://tiagomonteiro0715.github.io/personal-portefolio/)
 
-The code in this repository originated from a [template](https://html5up.net/miniport) in the website [html5](https://html5up.net)
-
-Make sure you visited their website :)
-
 -----
 
+The motivation behind this project was to gain a better understanding of the fundamentals of web developement. And to create a website to showcase my projects.
+
+
+-----
 
 Javascript libraries used
 
@@ -17,6 +17,12 @@ Javascript libraries used
 
 [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
 
+
+-----
+
+The code in this repository originated from a [template](https://html5up.net/miniport) in the website [html5](https://html5up.net)
+
+Make sure you visited their website :)
 
 -----
 
